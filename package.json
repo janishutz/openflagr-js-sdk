@@ -1,0 +1,32 @@
+{
+  "name": "@janishutz/openflagr-js-sdk",
+  "version": "1.0.0",
+  "description": "TypeScript SDK for openflagr, for browser (and node)",
+  "keywords": [
+    "openflagr",
+    "sdk",
+    "feature-flag"
+  ],
+  "homepage": "https://github.com/janishutz/openflagr-js-sdk#readme",
+  "bugs": {
+    "url": "https://github.com/janishutz/openflagr-js-sdk/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janishutz/openflagr-js-sdk.git"
+  },
+  "author": "Janis Hutz",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.13.0",
+    "eslint-plugin-vue": "^10.11.1",
+    "globals": "^17.13.0",
+    "typescript-eslint": "^8.72.0"
+  }
+}
